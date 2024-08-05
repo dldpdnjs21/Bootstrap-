@@ -1,0 +1,17 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--white-color);
+  padding: 20px;
+}
+.logo {
+  margin: 35px 50px;
+}
+.logo img {
+  width: 30px;
+  height: 30px;
+}
+.social-icons {
+  margin-left: 50px;
+}
